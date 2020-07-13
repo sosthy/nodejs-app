@@ -26,6 +26,6 @@ config.env = process.env.NODE_ENV;
 // all which have they're own configs that may change and add values
 
 let envConfig = require("./" + config.env);
-
+console.log(_.merge(config, envConfig || {}));
 // merge the two objects and export it so our app can use it
 module.exports = _.merge(config, envConfig || {});

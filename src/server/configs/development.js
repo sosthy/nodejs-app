@@ -1,4 +1,4 @@
-export default {
+let config = {
   // enable logging for development2
   logging: true,
   database: {
@@ -7,3 +7,5 @@ export default {
     DROP_CREATE: 1,
   },
 };
+
+module.exports = config;
