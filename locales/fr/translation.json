@@ -1,0 +1,12 @@
+{
+  "acceuil": "Acceuil",
+  "users": "Utilisateurs",
+  "roles": "Rôles",
+  "francais": "Français",
+  "anglais": "Anglais",
+  "title": "Bienvenue sur React en utilisant react-i18next",
+  "description": {
+    "part1": "Pour debuter, Modifier <1>src/App.js</1> et sauvegarder pour recharger.",
+    "part2": "Changer de langue entre english et français en utilisant les boutons ci dessous."
+  }
+}

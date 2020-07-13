@@ -1,0 +1,4 @@
+{"message":{"authorities":["ADMIN","USER"],"_id":"5f0cc543cafb90314cc8526d","name":"ADMIN","description":"Administrateur par defaut de l'application","__v":0},"level":"info"}
+{"message":{"authorities":["USER"],"_id":"5f0cc544cafb90314cc8526e","name":"USER","description":"Utilisateur par defaut de l'application","__v":0},"level":"info"}
+{"message":{"_id":"5f0cc544cafb90314cc8526f","username":"admin","password":"$2b$10$eWLxGXiJbl5FW6dQAiY/WuFsG315w4m9PAFPGiU05u8KsYDI16YpO","firstname":"first admin","lastname":"last admin","email":"admin@admin.com","photo":"","role":"5f0cc543cafb90314cc8526d","lang":"fr","__v":0},"level":"info"}
+{"message":{"_id":"5f0cc544cafb90314cc85270","username":"user","password":"$2b$10$OZqfS8Fu0c3k4mp/eXhCduBMzbojftbi8trpw9MNSZE6fAM8..sdm","firstname":"first user","lastname":"last user","email":"user@user.com","photo":"","role":"5f0cc544cafb90314cc8526e","lang":"fr","__v":0},"level":"info"}
